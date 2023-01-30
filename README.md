@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Conversor de Medidas </h1>
 
 <p align="center">
 Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um app de conversão de moedas.
 
-- [Visite o projeto online](https://luiscomz.github.io/nlw-setup/)
+- [Visite o projeto online](https://luiscomz.github.io/imersao-dev/)
 
 ## :memo: Licença
 
