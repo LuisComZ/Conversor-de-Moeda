@@ -1,4 +1,4 @@
-<h1 align="center"> Conversor de Medidas </h1>
+<h1 align="center"> Conversor de Moeda </h1>
 
 <p align="center">
 Imersão Dev é um evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB. <br/>
