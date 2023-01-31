@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um app de conversão de moedas.
 
-- [Visite o projeto online](https://luiscomz.github.io/imersao-dev/)
+- [Visite o projeto online](https://luiscomz.github.io/Conversor-de-Moeda/)
 
 ## :memo: Licença
 
